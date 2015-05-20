@@ -74,7 +74,7 @@ a:hover
     display: inline-block;
     float: center;
     margin-bottom: 1em;
-    width: 15%;
+    width: 35%;
 }
 
 .feature-grid .feature .content {
@@ -82,7 +82,7 @@ a:hover
 }
 
 .feature-grid .feature .image {
-    width: 30%;
+    width: 50%;
 }
 
 .feature-grid .feature .image img {
