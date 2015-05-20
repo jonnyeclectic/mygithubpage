@@ -74,11 +74,11 @@
     display: inline-block;
     float: left;
     margin-bottom: 3em;
-    width: 30%;
+    width: 50%;
 }
 
 .feature-grid .feature .content {
-    width: 60%;
+    width: 50%;
 }
 
 .feature-grid .feature .image {
