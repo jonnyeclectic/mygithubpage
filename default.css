@@ -673,7 +673,7 @@ color: #666;
 opacity:0;
 }
 figure:nth-child(1) {
-animation: xfade 48s 42s infinite;
+animation: xfade 1s 1s infinite;
 }
 figure:nth-child(2) {
 animation: xfade 48s 36s infinite;
