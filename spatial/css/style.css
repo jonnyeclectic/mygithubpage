@@ -454,7 +454,7 @@ input[type="radio"] + label:before {
 }
 
 .feature-grid .feature .image {
-    width: 30%;
+    width: 0%;
 }
 
 .feature-grid .feature .image img {
@@ -470,7 +470,7 @@ input[type="radio"] + label:before {
 
 .feature-grid .feature:nth-child(even) .content, .feature-grid .feature:nth-child(even) .image {
     float: left;
-    margin-left: 50%;
+    margin-left: 0%;
     text-align: left;
 }
 
