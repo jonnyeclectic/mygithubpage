@@ -71,14 +71,14 @@ a:hover
 }
 
 .feature-grid .feature {
-    display: block;
+    display: inline-block;
     float: center;
     margin-bottom: 1em;
     width: 45%;
 }
 
 .feature-grid .feature .content {
-    width: 40%;
+    width: 60%;
 }
 
 .feature-grid .feature .image {
@@ -92,13 +92,13 @@ a:hover
 
 .feature-grid .feature:nth-child(odd) .content, .feature-grid .feature:nth-child(odd) .image {
     float: right;
-    margin-right: 0%;
+    margin-right: 5%;
     text-align: right;
 }
 
 .feature-grid .feature:nth-child(even) .content, .feature-grid .feature:nth-child(even) .image {
     float: left;
-    margin-left: 0%;
+    margin-left: 5%;
     text-align: left;
 }
 
