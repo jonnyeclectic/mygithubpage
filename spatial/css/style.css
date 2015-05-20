@@ -446,11 +446,11 @@ input[type="radio"] + label:before {
     display: inline-block;
     float: left;
     margin-bottom: 3em;
-    width: 50%;
+    width: 40%;
 }
 
 .feature-grid .feature .content {
-    width: 60%;
+    width: 80%;
 }
 
 .feature-grid .feature .image {
