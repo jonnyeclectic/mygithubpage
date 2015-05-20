@@ -1002,7 +1002,7 @@ body.landing #skel-layers-wrapper {
 }
 
 #header .container {
-    position: relative;
+    position: left;
 }
 
 #header .container h1 {
