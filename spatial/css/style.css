@@ -446,7 +446,7 @@ input[type="radio"] + label:before {
     display: inline-block;
     float: left;
     margin-bottom: 5em;
-    width: 0%;
+    width: 50%;
 }
 
 .feature-grid .feature .content {
