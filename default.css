@@ -495,8 +495,8 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 
 #banner .title .tiny
 {
-    font-size: 5em;
-    line-height: 530%;
+    font-size: 1em;
+    line-height: 10%;
 }
 
 #banner .button
