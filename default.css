@@ -672,28 +672,27 @@ color: #666;
 .css-slideshow figure{
 opacity:0;
 }
-figure:nth-child(1) {
-animation: xfade 20s 5s infinite;
+
+figure:nth-child(4) {
+    animation: xfade 16s 0s infinite;
+}
+figure:nth-child(3) {
+    animation: xfade 16s 4s infinite;
 }
 figure:nth-child(2) {
-animation: xfade 48s 36s infinite;
+    animation: xfade 16s 8s infinite;
 }
-
-
+figure:nth-child(1) {
+    animation: xfade 16s 12s infinite;
+}
 @keyframes xfade{
-0%{
-opacity: 1;
-}
-10.5% {
-opacity: 1;
-}
-12.5%{
-opacity: 0;
-}
-98% {
-opacity: 0;
-}
-100% {
-opacity: 1;
-}
+    17% {
+        opacity:1;
+    }
+    25% {
+        opacity:0;
+    }
+    92% {
+        opacity:0;
+    }
 }
