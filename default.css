@@ -61,7 +61,7 @@
 /* Feature */
 
 .feature-grid {
-    position: relative;
+    position: center;
 }
 
 .feature-grid:after {
@@ -74,7 +74,7 @@
     display: inline-block;
     float: left;
     margin-bottom: 3em;
-    width: 90%;
+    width: 30%;
 }
 
 .feature-grid .feature .content {
