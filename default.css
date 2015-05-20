@@ -74,11 +74,11 @@ a:hover
     display: inline-block;
     float: center;
     margin-bottom: 1em;
-    width: 45%;
+    width: 15%;
 }
 
 .feature-grid .feature .content {
-    width: 60%;
+    width: 30%;
 }
 
 .feature-grid .feature .image {
