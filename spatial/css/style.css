@@ -464,13 +464,13 @@ input[type="radio"] + label:before {
 
 .feature-grid .feature:nth-child(odd) .content, .feature-grid .feature:nth-child(odd) .image {
     float: right;
-    margin-right: 0%;
+    margin-right: 100%;
     text-align: right;
 }
 
 .feature-grid .feature:nth-child(even) .content, .feature-grid .feature:nth-child(even) .image {
     float: left;
-    margin-left: 0%;
+    margin-left: 100%;
     text-align: left;
 }
 
