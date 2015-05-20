@@ -58,12 +58,12 @@ CoolClock.config.skins = {
 
     // by bonstio, http://bonstio.net
     classic/*was gIG*/: {
-        outerBorder:      { lineWidth: 185, radius: 1, color: "#E5ECF9", alpha: 1 },
-        smallIndicator:   { lineWidth: 2, startAt: 89, endAt: 94, color: "#3366CC", alpha: 1 },
-        largeIndicator:   { lineWidth: 4, startAt: 83, endAt: 94, color: "#3366CC", alpha: 1 },
+        outerBorder:      { lineWidth: 185, radius: 1, color: "#000", alpha: 1 },
+        smallIndicator:   { lineWidth: 2, startAt: 89, endAt: 94, color: "#000", alpha: 1 },
+        largeIndicator:   { lineWidth: 4, startAt: 83, endAt: 94, color: "#000", alpha: 1 },
         hourHand:         { lineWidth: 5, startAt: 0, endAt: 60, color: "black", alpha: 1 },
         minuteHand:       { lineWidth: 4, startAt: 0, endAt: 80, color: "black", alpha: 1 },
-        secondHand:       { lineWidth: 1, startAt: -20, endAt: 85, color: "red", alpha: .85 },
+        secondHand:       { lineWidth: 1, startAt: -20, endAt: 85, color: "black", alpha: .85 },
         secondDecoration: { lineWidth: 3, startAt: 0, radius: 2, fillColor: "black", color: "black", alpha: 1 }
     },
 
