@@ -465,7 +465,7 @@ input[type="radio"] + label:before {
 .feature-grid .feature:nth-child(odd) .content, .feature-grid .feature:nth-child(odd) .image {
     float: right;
     margin-right: 5%;
-    text-align: left;
+    text-align: right;
 }
 
 .feature-grid .feature:nth-child(even) .content, .feature-grid .feature:nth-child(even) .image {
