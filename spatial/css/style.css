@@ -1053,7 +1053,7 @@ body.landing #skel-layers-wrapper {
 /* Banner */
 
 #banner {
-    padding: 16em 0 46em 10;
+    padding: 16em 0 46em 20em;
     background-attachment: fixed;
     background-image: url("images/overlay.png"), url("../images/banner.jpg");
     background-position: center top;
