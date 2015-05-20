@@ -10,6 +10,9 @@ Version    : 1.0
 Released   : 20140228
 
 -->
+<!--[if IE]><script type="text/javascript" src="excanvas.js"></script><![endif]-->
+<script type="text/javascript" src="coolclock.js"></script>
+<script type="text/javascript" src="moreskins.js"></script>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -38,6 +41,8 @@ Released   : 20140228
             </ul>
         </div>
     </div>
+    <body onload="CoolClock.findAndCreateClocks()">
+        <canvas id="clockid" class="CoolClock:Skin:Radius:noSeconds:GMTOffset"></canvas>
     <div id="banner" class="container">
         <div class="title">
             <h2>Jonathan Reyes</h2>
