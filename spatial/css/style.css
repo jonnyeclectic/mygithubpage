@@ -433,7 +433,7 @@ input[type="radio"] + label:before {
 /* Feature */
 
 .feature-grid {
-    position: relative;
+    position: center;
 }
 
 .feature-grid:after {
