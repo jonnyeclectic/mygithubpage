@@ -73,8 +73,8 @@
 .feature-grid .feature {
     display: inline-block;
     float: left;
-    margin-bottom: 3em;
-    width: 60%;
+    margin-bottom: 5em;
+    width: 45%;
 }
 
 .feature-grid .feature .content {
