@@ -72,7 +72,7 @@ a:hover
 
 .feature-grid .feature {
     display: inline-block;
-    float: right;
+    float: relative;
     margin-bottom: 0em;
     width: 35%;
 }
