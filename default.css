@@ -166,7 +166,7 @@
         letter-spacing: 0.10em;
         margin-top: 2em;
         padding: 1.40em 3em;
-        border: 2px solid rgba(255,255,255,1);
+        border: 2px solid rgba(55,55,55,1);
         border-radius: 6px;
         text-decoration: none;
         font-weight: 700;
@@ -313,7 +313,7 @@
     #logo h1
     {
         font-size: 2.6em;
-        color: #79C255;
+        color: #79C55;
     }
 
     #logo a
@@ -361,9 +361,9 @@
 
     #menu .active a
     {
-        border: 2px solid rgba(255,255,255,1);
+        border: 2px solid rgba(55,55,55,1);
         border-radius: 6px;
-        color: rgba(255,255,255,1);
+        color: rgba(55,55,55,1);
     }
 
     #menu .icon
@@ -448,13 +448,13 @@
     {
         text-align: center;
         font-size: 1em;
-        color: rgba(255,255,255,0.3);
+        color: rgba(55,55,55,0.3);
     }
 
     #copyright a
     {
         text-decoration: none;
-        color: rgba(255,255,255,0.6);
+        color: rgba(55,55,55,0.6);
     }
 
 
