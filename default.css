@@ -493,6 +493,11 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
     font-size: 2em;
 }
 
+#banner .title .tiny
+{
+    font-size: 1em;
+}
+
 #banner .button
 {
     margin-top: 2em;
