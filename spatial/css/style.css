@@ -507,7 +507,6 @@ input[type="radio"] + label:before {
 .image img {
     border-radius: 4px;
     display: block;
-    float: left;
 }
 
 .image.left {
@@ -542,13 +541,11 @@ input[type="radio"] + label:before {
 
 .image.rounded {
     border-radius: 100%;
-    float: left;
 }
 
 .image.rounded img {
     border: solid 0.5em rgba(144, 144, 144, 0.25);
     border-radius: 100%;
-    float: left;
 }
 
 .image.captioned {
