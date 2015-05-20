@@ -446,7 +446,7 @@ input[type="radio"] + label:before {
     display: inline-block;
     float: left;
     margin-bottom: 3em;
-    width: 80%;
+    width: 40%;
 }
 
 .feature-grid .feature .content {
@@ -464,7 +464,7 @@ input[type="radio"] + label:before {
 
 .feature-grid .feature:nth-child(odd) .content, .feature-grid .feature:nth-child(odd) .image {
     float: right;
-    margin-right: 5%;
+    margin-right: 20%;
     text-align: right;
 }
 
