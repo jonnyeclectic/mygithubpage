@@ -352,7 +352,7 @@
         text-decoration: none;
         text-transform: uppercase;
         font-size: 0.8em;
-        color: rgba(255,255,255,0.80);
+        color: rgba(55,55,55,0.80);
     }
 
     #menu li:hover a, #menu li.active a, #menu li.active span
