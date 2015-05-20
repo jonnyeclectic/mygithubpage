@@ -454,7 +454,7 @@ input[type="radio"] + label:before {
 }
 
 .feature-grid .feature .image {
-    width: 0%;
+    width: 100%;
 }
 
 .feature-grid .feature .image img {
