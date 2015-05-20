@@ -71,8 +71,8 @@
 }
 
 .feature-grid .feature {
-    display: inline-block;
-    float: left;
+    display: block;
+    float: center;
     margin-bottom: 1em;
     width: 45%;
 }
